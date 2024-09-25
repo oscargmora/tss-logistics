@@ -8,13 +8,13 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<h3 align="center">TSS Logistics, LLC</h3>
+<h3 align="center">Grocery List</h3>
 
   <p align="center">
-    TSS Logistics Website
+    A grocery list inventory project for use for myself.
     <br />
     <br />
-    <a href="https://github.com/oscargmora/tss-logistics"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/oscargmora/grocery-list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://feline-coordinated-shingle.glitch.me/">View Demo</a>
@@ -32,9 +32,12 @@
 
 
 
-### Credits
+### Built With
 
-Credits on Website
+* ![NodeJS](https://img.shields.io/badge/NodeJS%20-%23494ea9.svg?style=for-the-badge&logo=nodedotjs&logoColor=8fc43e)
+* ![Express](https://img.shields.io/badge/Express%20-%23fcedd4.svg?style=for-the-badge&logo=express&logoColor=black)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-001d2a?style=for-the-badge&logo=mongodb)
+* ![Mongoose](https://img.shields.io/badge/Mongoose-ededed?style=for-the-badge&logo=mongoose&logoColor=870000)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,6 +46,6 @@ Credits on Website
 
 Oscar Mora - moragoscar@outlook.com
 
-Project Link: [https://github.com/oscargmora/tss-logistics](https://github.com/oscargmora/tss-logistics)
+Project Link: [https://github.com/oscargmora/groecry-list](https://github.com/oscargmora/grocery-list)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
