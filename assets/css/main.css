@@ -4056,6 +4056,10 @@ body.is-mobile #main > header {
 	text-align: center;
 }
 
+#footer .business-numbers {
+	color: rgba(255, 255, 255, 0.5);
+}
+
 #footer .icons {
 	font-size: 1.25em;
 }
