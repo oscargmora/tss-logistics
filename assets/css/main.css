@@ -2419,6 +2419,10 @@ ul.actions.fit.stacked {
 
 /* Icons */
 
+ul.business-numbers {
+	list-style: none;
+}
+
 ul.icons {
 	cursor: default;
 	list-style: none;
